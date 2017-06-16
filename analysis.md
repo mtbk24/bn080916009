@@ -3,7 +3,7 @@
  <em> </em>
 </p>
 
-![](images/sbpl_-01-_L__ParamDistribution.pdf)
+![](bn080916009/images/sbpl_-01-_L__ParamDistribution.pdf)
 
 
 This is a plot.
