@@ -5,6 +5,6 @@
 
 ![](bn080916009/images/sbpl_-01-_L__ParamDistribution.pdf)
 
-[Project Presentation](/images/sbpl_-01-_L__ParamDistribution.pdf "Project Presentation PDF")
+[Project Presentation](/images/sbpl_-01-_L__ParamDistribution.pdf "kim PDF")
 
 This is a plot.
