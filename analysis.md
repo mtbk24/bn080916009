@@ -4,6 +4,6 @@
 </p>
 
 ![1](images/sbpl_-01-_L__ParamDistribution.pdf)
-Format: ![Alt Text](url)
+
 
 This is a plot.
