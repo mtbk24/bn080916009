@@ -71,3 +71,63 @@
 
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody_-02-_L_.pdf "")
+
+
+## Smootly Broken Power-Law (sbpl+bbody) ** Version -01-
+### BXA Results
+[Fit Plots](/images/BXA/sbpl+bbody_-01-_auto_L_Plots.pdf "")
+
+[Fit Residuals](/images/BXA/sbpl+bbody_-01-_auto_L_Plots_residuals.pdf "")
+
+[Param Distribution](/images/ParamDist/sbpl+bbody_-01-_L__ParamDistribution.pdf "")
+
+[Marginals](/images/BXA/sbpl+bbody_-01-_auto_L_marg.pdf "")
+
+
+### XSPEC Results
+[Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-01-_L_.pdf "")
+
+## Smootly Broken Power-Law (sbpl+bbody) ** Version -02-
+### BXA Results
+[Fit Plots](/images/BXA/sbpl+bbody_-02-_auto_L_Plots.pdf "")
+
+[Fit Residuals](/images/BXA/sbpl+bbody_-02-_auto_L_Plots_residuals.pdf "")
+
+[Param Distribution](/images/ParamDist/sbpl+bbody_-02-_L__ParamDistribution.pdf "")
+
+[Marginals](/images/BXA/sbpl+bbody_-02-_auto_L_marg.pdf "")
+
+
+### XSPEC Results
+[Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-02-_L_.pdf "")
+
+
+
+## Cutoff Power-Law (cutoffpl+bbody) ** Version -01-
+### BXA Results
+[Fit Plots](/images/BXA/cutoffpl+bbody_-01-_auto_L_Plots.pdf "")
+
+[Fit Residuals](/images/BXA/cutoffpl+bbody_-01-_auto_L_Plots_residuals.pdf "")
+
+[Param Distribution](/images/ParamDist/cutoffpl+bbody_-01-_L__ParamDistribution.pdf "")
+
+[Marginals](/images/BXA/cutoffpl+bbody_-01-_auto_L_marg.pdf "")
+
+
+### XSPEC Results
+[Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody_-01-_L_.pdf "")
+
+## Cutoff Power-Law (cutoffpl+bbody) ** Version -02-
+### BXA Results
+[Fit Plots](/images/BXA/cutoffpl+bbody_-02-_auto_L_Plots.pdf "")
+
+[Fit Residuals](/images/BXA/cutoffpl+bbody_-02-_auto_L_Plots_residuals.pdf "")
+
+[Param Distribution](/images/ParamDist/cutoffpl+bbody_-02-_L__ParamDistribution.pdf "")
+
+[Marginals](/images/BXA/cutoffpl+bbody_-02-_auto_L_marg.pdf "")
+
+
+### XSPEC Results
+[Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody_-02-_L_.pdf "")
+
