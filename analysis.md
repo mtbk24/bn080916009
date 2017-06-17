@@ -11,10 +11,11 @@
 
 [Marginals](/images/BXA/grbm_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm_-01-_L_.pdf "")
 
+<br/>
+<br/>
 
 ## Smootly Broken Power-Law (sbpl)
 ### BXA Results
@@ -26,9 +27,11 @@
 
 [Marginals](/images/BXA/sbpl_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Cutoff Power-Law (cutoffpl)
 ### BXA Results
@@ -40,9 +43,11 @@
 
 [Marginals](/images/BXA/cutoffpl_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Band Function + Blackbody (grbm+bbody) ** Version -01-
 ### BXA Results
@@ -54,9 +59,11 @@
 
 [Marginals](/images/BXA/grbm+bbody_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Band Function + Blackbody (grbm+bbody) ** Version -02-
 ### BXA Results
@@ -68,10 +75,11 @@
 
 [Marginals](/images/BXA/grbm+bbody_-02-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody_-02-_L_.pdf "")
 
+<br/>
+<br/>
 
 ## Smootly Broken Power-Law + Blackbody (sbpl+bbody) ** Version -01-
 ### BXA Results
@@ -83,9 +91,11 @@
 
 [Marginals](/images/BXA/sbpl+bbody_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Smootly Broken Power-Law + Blackbody (sbpl+bbody) ** Version -02-
 ### BXA Results
@@ -97,11 +107,11 @@
 
 [Marginals](/images/BXA/sbpl+bbody_-02-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-02-_L_.pdf "")
 
-
+<br/>
+<br/>
 
 ## Cutoff Power-Law + Blackbody (cutoffpl+bbody) ** Version -01-
 ### BXA Results
@@ -113,9 +123,11 @@
 
 [Marginals](/images/BXA/cutoffpl+bbody_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Cutoff Power-Law + Blackbody (cutoffpl+bbody) ** Version -02-
 ### BXA Results
@@ -127,9 +139,11 @@
 
 [Marginals](/images/BXA/cutoffpl+bbody_-02-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody_-02-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Band Function + Power-Law (grbm+lpow)
 ### BXA Results
@@ -141,10 +155,11 @@
 
 [Marginals](/images/BXA/grbm+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+lpow_-01-_L_.pdf "")
 
+<br/>
+<br/>
 
 ## Smootly Broken Power-Law + Power-Law  (sbpl+lpow)
 ### BXA Results
@@ -156,9 +171,11 @@
 
 [Marginals](/images/BXA/sbpl+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+lpow_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Cutoff Power-Law + Power-Law  (cutoffpl+lpow)
 ### BXA Results
@@ -170,9 +187,11 @@
 
 [Marginals](/images/BXA/cutoffpl+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl+lpow_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Band Function + Blackbody + Power-Law (grbm+bbody+lpow)
 ### BXA Results
@@ -184,10 +203,11 @@
 
 [Marginals](/images/BXA/grbm+bbody+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody+lpow_-01-_L_.pdf "")
 
+<br/>
+<br/>
 
 ## Smootly Broken Power-Law + Blackbody + Power-Law  (sbpl+bbody+lpow)
 ### BXA Results
@@ -199,9 +219,11 @@
 
 [Marginals](/images/BXA/sbpl+bbody+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody+lpow_-01-_L_.pdf "")
+
+<br/>
+<br/>
 
 ## Cutoff Power-Law + Blackbody + Power-Law  (cutoffpl+bbody+lpow)
 ### BXA Results
@@ -213,6 +235,8 @@
 
 [Marginals](/images/BXA/cutoffpl+bbody+lpow_-01-_auto_L_marg.pdf "")
 
-
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody+lpow_-01-_L_.pdf "")
+
+<br/>
+<br/>
