@@ -3,13 +3,16 @@
 
 ## Band Function (GRBM)
 ### BXA Results
-[BXA Fit Plots](/images/BXA/grbm_-01-_auto_L_Plots.pdf "")
+[Fit Plots](/images/BXA/grbm_-01-_auto_L_Plots.pdf "")
 
-[BXA Fit Marginals](/images/BXA/grbm_-01-_auto_L_Plots_residuals.pdf "")
+[Fit Residuals](/images/BXA/grbm_-01-_auto_L_Plots_residuals.pdf "")
 
-[BXA Param Distribution](/images/ParamDist/grbm_-01-_L__ParamDistribution.pdf "")
+[Param Distribution](/images/ParamDist/grbm_-01-_L__ParamDistribution.pdf "")
 
-[BXA Marginals](/images/BXA/grbm_-01-_auto_L_marg.pdf "")
+[Marginals](/images/BXA/grbm_-01-_auto_L_marg.pdf "")
 
 
 ### XSPEC Results
+[Fit Plots](/images/PYXSPEC/grbm_-01-_L_Plots.pdf "")
+
+[Fit Residuals](/images/PYXSPEC/grbm_-01-_L_Plots_residuals.pdf "")
