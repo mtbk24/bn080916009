@@ -1,5 +1,5 @@
 
-# bn080916009 BXA vs XSPEC analysis for GBM+LAT data
+# BXA vs XSPEC analysis for bn080916009 (GBM+LAT data)
 <br/>
 <br/>
 
