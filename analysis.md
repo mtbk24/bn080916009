@@ -13,6 +13,5 @@
 
 
 ### XSPEC Results
-[Fit Plots](/images/PYXSPEC/grbm_-01-_L_Plots.pdf "")
+[Fit Plots](/images/PYXSPEC/Plots_grbm_-01-_L_.pdf "")
 
-[Fit Residuals](/images/PYXSPEC/grbm_-01-_L_Plots_residuals.pdf "")
