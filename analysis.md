@@ -44,7 +44,7 @@
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl_-01-_L_.pdf "")
 
-## Band Function (grbm+bbody) ** Version -01-
+## Band Function + Blackbody (grbm+bbody) ** Version -01-
 ### BXA Results
 [Fit Plots](/images/BXA/grbm+bbody_-01-_auto_L_Plots.pdf "")
 
@@ -58,7 +58,7 @@
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody_-01-_L_.pdf "")
 
-## Band Function (grbm+bbody) ** Version -02-
+## Band Function + Blackbody (grbm+bbody) ** Version -02-
 ### BXA Results
 [Fit Plots](/images/BXA/grbm+bbody_-02-_auto_L_Plots.pdf "")
 
@@ -73,7 +73,7 @@
 [Fit Plots](/images/PYXSPEC/Plots_grbm+bbody_-02-_L_.pdf "")
 
 
-## Smootly Broken Power-Law (sbpl+bbody) ** Version -01-
+## Smootly Broken Power-Law + Blackbody (sbpl+bbody) ** Version -01-
 ### BXA Results
 [Fit Plots](/images/BXA/sbpl+bbody_-01-_auto_L_Plots.pdf "")
 
@@ -87,7 +87,7 @@
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_sbpl+bbody_-01-_L_.pdf "")
 
-## Smootly Broken Power-Law (sbpl+bbody) ** Version -02-
+## Smootly Broken Power-Law + Blackbody (sbpl+bbody) ** Version -02-
 ### BXA Results
 [Fit Plots](/images/BXA/sbpl+bbody_-02-_auto_L_Plots.pdf "")
 
@@ -103,7 +103,7 @@
 
 
 
-## Cutoff Power-Law (cutoffpl+bbody) ** Version -01-
+## Cutoff Power-Law + Blackbody (cutoffpl+bbody) ** Version -01-
 ### BXA Results
 [Fit Plots](/images/BXA/cutoffpl+bbody_-01-_auto_L_Plots.pdf "")
 
@@ -117,7 +117,7 @@
 ### XSPEC Results
 [Fit Plots](/images/PYXSPEC/Plots_cutoffpl+bbody_-01-_L_.pdf "")
 
-## Cutoff Power-Law (cutoffpl+bbody) ** Version -02-
+## Cutoff Power-Law + Blackbody (cutoffpl+bbody) ** Version -02-
 ### BXA Results
 [Fit Plots](/images/BXA/cutoffpl+bbody_-02-_auto_L_Plots.pdf "")
 
